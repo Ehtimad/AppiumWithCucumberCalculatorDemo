@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="179.308">
+<testcase classname="Calculator test" name="Calculator plus function test" time="26.369">
+<system-out><![CDATA[Given Type first number.....................................................passed
+And Press plus button.......................................................passed
+And Type second number......................................................passed
+And Press equal button......................................................passed
+And Get expected result.....................................................passed
+And Get actually result.....................................................passed
+Then Assert result..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Calculator test" name="Calculator minus function test" time="46.987">
+<system-out><![CDATA[Given Type first number.....................................................passed
+And Press minus button......................................................passed
+And Type second number......................................................passed
+And Press equal button......................................................passed
+And Get expected result.....................................................passed
+And Get actually result.....................................................passed
+Then Assert result..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Calculator test" name="Calculator multiple function test" time="23.466">
+<system-out><![CDATA[Given Type first number.....................................................passed
+And Press multiple button...................................................passed
+And Type second number......................................................passed
+And Press equal button......................................................passed
+And Get expected result.....................................................passed
+And Get actually result.....................................................passed
+Then Assert result..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Calculator test" name="Calculator divided function test" time="82.334">
+<system-out><![CDATA[Given Type first number.....................................................passed
+And Press divided button....................................................passed
+And Type second number......................................................passed
+And Press equal button......................................................passed
+And Get expected result.....................................................passed
+And Get actually result.....................................................passed
+Then Assert result..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
